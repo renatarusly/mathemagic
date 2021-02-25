@@ -1,0 +1,44 @@
+.message-wrapper {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 80px;
+    text-align: center;
+  }
+  
+  .message {
+    padding: 15px 40px;
+    background-color: #5dca88;
+    cursor: pointer;
+    box-shadow: 0 7px #1a7940;
+  }
+  
+  .message:active {
+    box-shadow:none;
+    position:relative;
+    top:7px;
+  }
+  
+  .lesson {
+    float: left;
+    width: 33%;
+    text-align: center;
+  }
+  
+  .lesson-icon {
+    position: relative;
+    text-align: center;
+  }
+  
+  .lesson-icon p {
+    position: absolute;
+    top: 85px;
+    width: 100%;
+    color:white;
+    text-align: center;
+  }
+  
+  
+  .lesson-wrapper1 {
+    height:380px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+  }

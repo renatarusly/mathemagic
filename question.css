@@ -1,0 +1,21 @@
+.questions-wrapper{
+    background-color: #f7f7f7;;
+    height:auto ;
+    padding-top:30px;
+    padding-bottom:50px;
+    }
+    
+    .subtitle{
+      text-align:center;
+      margin-top:50px;
+      color:#5f5d60;
+    }
+    p{
+      color : #363536;
+    }
+    .question1{
+      margin-top:50px;
+      margin-left:80px;
+      margin-right:80px;
+    }
+    

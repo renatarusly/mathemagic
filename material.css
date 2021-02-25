@@ -1,0 +1,202 @@
+/*body{
+background-color: #f7f7f7;;
+height:auto ;
+padding-top:30px;
+padding-bottom:50px;
+}*/
+
+
+.heading {
+  padding-top: 80px;
+  color: #5f5d60;
+  text-align: center;
+} 
+
+.subtitle{
+  text-align:center;
+  padding-bottom:20px;
+  border-bottom:#b3aeb5 solid;
+  margin-bottom:20px;
+}
+
+.two {
+  padding-top:20px;
+}
+
+
+.lesson1 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.lesson-icon1 {
+  position: relative;
+  text-align: center;
+  width:100%;
+}
+
+.lesson-icon1 p {
+  position: absolute;
+  top: 85px;
+  width: 100%;
+  color:white;
+  text-align: center;
+} 
+
+.lesson-contents1 p {
+  width: 100%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: #363536;
+  
+}
+
+.lesson {
+  float: left;
+  width: 25%;
+  text-align: center;
+  margin-bottom:20px
+}
+
+.lesson-icon {
+  position: relative;
+  text-align: center;
+}
+
+.lesson-icon p {
+  position: absolute;
+  top: 85px;
+  width: 100%;
+  color:white;
+  text-align: center;
+} 
+
+.lesson-contents p {
+  width: 100%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 15px;
+  color: #363536;
+}
+
+.card {
+width: 195px;
+height: 195px;
+padding:3px;
+margin-right:auto;
+margin-left:auto;
+}
+
+.one{
+background: url("https://www.linkpicture.com/q/kubus.png") no-repeat;
+}
+
+.one:hover {
+background: url("https://www.linkpicture.com/q/kubus_2.png") no-repeat;
+}
+
+.two{
+background: url("https://www.linkpicture.com/q/balok_1.png") no-repeat;
+}
+
+.two:hover {
+background: url("https://www.linkpicture.com/q/balok_2.png") no-repeat;
+}
+
+.three{
+background: url("https://www.linkpicture.com/q/LP-Balok.png") no-repeat;
+}
+
+.three:hover {
+background: url("https://www.linkpicture.com/q/LP-balok_3.png") no-repeat;
+}
+
+.four{
+background: url("https://www.linkpicture.com/q/LP-Kubus-fix.png") no-repeat;
+}
+
+.four:hover {
+background: url("https://www.linkpicture.com/q/LP-kubus_3.png") no-repeat;
+}
+
+.five{
+background: url("https://www.linkpicture.com/q/diagonal-bidang-kubus.png") no-repeat;
+}
+
+.five:hover {
+background: url("https://www.linkpicture.com/q/diagonal-bidang_3.png") no-repeat;
+}
+
+.six{
+background: url("https://i.ibb.co/0YwsmT7/diagonal-bidang-balok.png") no-repeat;
+}
+
+.six:hover {
+background: url("https://www.linkpicture.com/q/diagonal-bidang-balok_1.png") no-repeat;
+}
+
+.seven{
+background: url("https://www.linkpicture.com/q/diagonal-ruang-kubus_1.png") no-repeat;
+}
+
+.seven:hover {
+background: url("https://www.linkpicture.com/q/diagonal-ruang_3.png") no-repeat;
+}
+
+.eight{
+background: url("https://www.linkpicture.com/q/diagonal-ruang-balok.png") no-repeat;
+}
+
+.eight:hover {
+background: url("https://www.linkpicture.com/q/balok-soal_1.png") no-repeat;
+}
+
+.nine{
+background: url("https://www.linkpicture.com/q/volume-kubus.png") no-repeat;
+}
+
+.nine:hover {
+background: url("https://www.linkpicture.com/q/volume-kubus_2.png") no-repeat;
+}
+
+.ten{
+background: url("https://www.linkpicture.com/q/volume-balok.png") no-repeat;
+}
+
+.ten:hover {
+background: url("https://www.linkpicture.com/q/volume-balok_2.png") no-repeat;
+}
+
+.eleven{
+background: url("https://www.linkpicture.com/q/keliling-kubus.png") no-repeat;
+}
+
+.eleven:hover {
+background: url("https://www.linkpicture.com/q/keliling-kubus_1.png") no-repeat;
+}
+
+.twelve{
+background: url("https://www.linkpicture.com/q/keliling-balok.png") no-repeat;
+}
+
+.twelve:hover {
+background: url("https://www.linkpicture.com/q/keliling-balok_1.png") no-repeat;
+}
+
+.thirteen{
+background: url("https://i.ibb.co/PG98m7D/luas-bidang-diagonal-kubus.png") no-repeat;
+}
+
+.thirteen:hover {
+background: url("https://www.linkpicture.com/q/bidang-diagonal-kubus.png") no-repeat;
+}
+
+.fourteen{
+background: url("https://i.ibb.co/FKyxnb8/luas-bidang-diagonal-balok.png") no-repeat;
+}
+
+.fourteen:hover {
+background: url("https://www.linkpicture.com/q/bidang-diagonal-balok.png") no-repeat;
+}

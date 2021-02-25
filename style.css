@@ -1,0 +1,150 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  margin: 0;
+  font-family:"montserrat";;
+}
+
+a {
+ text-decoration: none;
+  color:white;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://i.ibb.co/Gpf0vHD/background.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.container-top p{
+  color:white;
+}
+
+.top-wrapper h1 {
+  opacity: 1;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0,7;
+  margin-bottom: 3px;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+.btn:hover {
+  opacity: 1;
+}
+
+
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position:fixed;
+  top:0;
+  /* Change the z-index property to 10 */
+  z-index:10;
+}
+
+.logo {
+  width:225px;
+  height:65px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+  transition: all 0.5s;
+}
+
+li {
+  float:left;
+  list-style:none;
+}
+li :hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+}
+
+.active{
+  background-color: rgba(255, 255, 255,0.5);
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+  text-align: center;
+}
+
+.heading h2 {
+  font-weight: normal;
+  text-align: center;
+}
+
+
+.names{
+  display: inline-block;
+  margin-top: 20px;
+  color: #363536;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+
+
+
+footer p{
+  font-size:12px;
+  color:#4b4b4b;
+  text-align: center;
+  padding-top:20px;
+}
+
+footer{
+ height:70px;
+}
+
